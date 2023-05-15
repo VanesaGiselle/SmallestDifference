@@ -16,6 +16,8 @@
 		931C6B982A10675900ED32D5 /* SmallestDifferenceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931C6B972A10675900ED32D5 /* SmallestDifferenceTests.swift */; };
 		931C6BA22A10675900ED32D5 /* SmallestDifferenceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931C6BA12A10675900ED32D5 /* SmallestDifferenceUITests.swift */; };
 		931C6BA42A10675900ED32D5 /* SmallestDifferenceUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931C6BA32A10675900ED32D5 /* SmallestDifferenceUITestsLaunchTests.swift */; };
+		931C6BB12A10677D00ED32D5 /* SmallestDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931C6BB02A10677D00ED32D5 /* SmallestDifference.swift */; };
+		931C6BB32A10C82300ED32D5 /* Tuple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931C6BB22A10C82300ED32D5 /* Tuple.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		931C6B9D2A10675900ED32D5 /* SmallestDifferenceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SmallestDifferenceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		931C6BA12A10675900ED32D5 /* SmallestDifferenceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestDifferenceUITests.swift; sourceTree = "<group>"; };
 		931C6BA32A10675900ED32D5 /* SmallestDifferenceUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestDifferenceUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		931C6BB02A10677D00ED32D5 /* SmallestDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestDifference.swift; sourceTree = "<group>"; };
+		931C6BB22A10C82300ED32D5 /* Tuple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tuple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				931C6B802A10675600ED32D5 /* AppDelegate.swift */,
 				931C6B822A10675600ED32D5 /* SceneDelegate.swift */,
 				931C6B842A10675600ED32D5 /* ViewController.swift */,
+				931C6BB02A10677D00ED32D5 /* SmallestDifference.swift */,
+				931C6BB22A10C82300ED32D5 /* Tuple.swift */,
 				931C6B862A10675600ED32D5 /* Main.storyboard */,
 				931C6B892A10675900ED32D5 /* Assets.xcassets */,
 				931C6B8B2A10675900ED32D5 /* LaunchScreen.storyboard */,
@@ -261,6 +267,8 @@
 				931C6B852A10675600ED32D5 /* ViewController.swift in Sources */,
 				931C6B812A10675600ED32D5 /* AppDelegate.swift in Sources */,
 				931C6B832A10675600ED32D5 /* SceneDelegate.swift in Sources */,
+				931C6BB12A10677D00ED32D5 /* SmallestDifference.swift in Sources */,
+				931C6BB32A10C82300ED32D5 /* Tuple.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
